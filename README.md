@@ -153,6 +153,5 @@ $ terraform destroy -var="db_password=SecurePasswordInstance123!" --auto-approve
   sensitive variable so it remains hidden from command line logs and GitHub 
   tracking files.
 
--------------------------------------------------------------------------------
-License: Distributed under the MIT License.
+
 ===============================================================================
